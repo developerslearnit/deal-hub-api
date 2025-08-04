@@ -118,61 +118,6 @@
 }
 ],
 "averageRating": 5
-},
-{
-"id": 5,
-"name": "Jordan Sport",
-"price": 120,
-"salePrice": 0,
-"description": "Gear up for your warmup. Lightweight and relaxed, this jacket updates MJ's iconic pre-game look with fresh design lines and color blocking.",
-"shortDesc": "Gear up for your warmup. Lightweight and relaxed, this jacket updates MJ's iconic pre-game look with fresh design lines and color blocking.",
-"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-2-thumb_3.png",
-"category": "Clothing",
-"featured": false,
-"images": [
-{
-"id": 7,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport.png"
-},
-{
-"id": 8,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-1.png"
-},
-{
-"id": 9,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-2.png"
 }
-],
-"averageRating": 5
-},
-{
-"id": 6,
-"name": "Nike Windrunner",
-"price": 100,
-"salePrice": 0,
-"description": "The Nike Sportswear Windrunner Jacket updates our first running windbreaker with lightweight fabric made from recycled materials. Design details pulled from the original version provide a heritage Nike look. This product is made with 100% recycled polyester fibers.",
-"shortDesc": "The Nike Sportswear Windrunner Jacket updates our first running windbreaker with lightweight fabric made from recycled materials.",
-"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243849/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-thumb_2.png",
-"category": "Clothing",
-"featured": false,
-"images": [
-{
-"id": 7,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-2.png"
-},
-{
-"id": 8,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner.png"
-},
-{
-"id": 9,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-3.png"
-},
-{
-"id": 10,
-"src": "https://res.cloudinary.com/panachora/image/upload/v1722243849/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-1.png"
-}
-],
-"averageRating": 5
-}
+
 ]
