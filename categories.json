@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "slug": "electronics",
+    "name": "Electronics"
+  },
+  {
+    "id": 2,
+    "slug": "fashion",
+    "name": "Fashion"
+  },
+  {
+    "id": 3,
+    "slug": "home-garden",
+    "name": "Home & Garden"
+  },
+  {
+    "id": 4,
+    "slug": "beauty-health",
+    "name": "Beauty & Health"
+  },
+  {
+    "id": 5,
+    "slug": "sports-outdoors",
+    "name": "Sports & Outdoors"
+  },
+  {
+    "id": 6,
+    "slug": "automotive",
+    "name": "Automotive"
+  },
+  {
+    "id": 7,
+    "slug": "toys-games",
+    "name": "Toys & Games"
+  },
+  {
+    "id": 8,
+    "slug": "baby-kids",
+    "name": "Baby & Kids"
+  },
+  {
+    "id": 9,
+    "slug": "groceries",
+    "name": "Groceries"
+  },
+  {
+    "id": 10,
+    "slug": "books-media",
+    "name": "Books & Media"
+  },
+  {
+    "id": 11,
+    "slug": "pet-supplies",
+    "name": "Pet Supplies"
+  },
+  {
+    "id": 12,
+    "slug": "jewelry-accessories",
+    "name": "Jewelry & Accessories"
+  },
+  {
+    "id": 13,
+    "slug": "tools-hardware",
+    "name": "Tools & Hardware"
+  },
+  {
+    "id": 14,
+    "slug": "office-supplies",
+    "name": "Office Supplies"
+  },
+  {
+    "id": 15,
+    "slug": "music-instruments",
+    "name": "Musical Instruments"
+  },
+  {
+    "id": 16,
+    "slug": "art-collectibles",
+    "name": "Art & Collectibles"
+  }
+]
