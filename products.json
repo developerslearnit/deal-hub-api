@@ -174,5 +174,95 @@
 }
 ],
 "averageRating": 5
-}
+},
+  {
+		"id": 7,
+		"name": "Nike Air Max 270",
+		"price": 250,
+		"salePrice": 200,
+		"description": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270. The design draws inspiration from Air Max icons, showcasing Nike's greatest innovation with its large window and fresh array of colours",
+		"shortDesc": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243859/dealhub/Shoes/Nike%20Air%20Max/Nike%20Air%20Max%20270/Nike_Air_Max_274-thumb_3.png",
+		"category": "Shoes",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243858/dealhub/Shoes/Nike%20Air%20Max/Nike%20Air%20Max%20270/Nike_Air_Max_270-2.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243858/dealhub/Shoes/Nike%20Air%20Max/Nike%20Air%20Max%20270/Nike_Air_Max_270-1.png"
+			},
+			{
+				"id": 9,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243858/dealhub/Shoes/Nike%20Air%20Max/Nike%20Air%20Max%20270/Nike_Air_Max_270.png"
+			},
+			{
+				"id": 1,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243858/dealhub/Shoes/Nike%20Air%20Max/Nike%20Air%20Max%20270/Nike_Air_Max_270-3.png"
+			}
+		],
+		"averageRating": 3.5
+	},
+	{
+		"id": 8,
+		"name": "Nike Free Metcom 5",
+		"price": 350,
+		"salePrice": 200,
+		"description": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270. The design draws inspiration from Air Max icons, showcasing Nike's greatest innovation with its large window and fresh array of colours",
+		"shortDesc": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243863/dealhub/Shoes/Nike%20Free%20Metcom%205/Nike_Free_Metcon-thumb_4.png",
+		"category": "Shoes",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243862/dealhub/Shoes/Nike%20Free%20Metcom%205/Nike_Free_Metcon_5-1.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243862/dealhub/Shoes/Nike%20Free%20Metcom%205/Nike_Free_Metcon_5-2.png"
+			},
+			{
+				"id": 9,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243863/dealhub/Shoes/Nike%20Free%20Metcom%205/Nike_Free_Metcon_5.png"
+			},
+			{
+				"id": 10,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243862/dealhub/Shoes/Nike%20Free%20Metcom%205/Nike_Free_Metcon_5-3.png"
+			}
+		],
+		"averageRating": 3.5
+	},
+	{
+		"id": 9,
+		"name": "Nike Romaleos 4",
+		"price": 150,
+		"salePrice": 200,
+		"description": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270. The design draws inspiration from Air Max icons, showcasing Nike's greatest innovation with its large window and fresh array of colours",
+		"shortDesc": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243864/dealhub/Shoes/Nike%20Romaleos%204/Nike_Romaleos-thumb_2.png",
+		"category": "Shoes",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243863/dealhub/Shoes/Nike%20Romaleos%204/Nike_Romaleos_4-1.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243864/dealhub/Shoes/Nike%20Romaleos%204/Nike_Romaleos_4-2.png"
+			},
+			{
+				"id": 9,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243864/dealhub/Shoes/Nike%20Romaleos%204/Nike_Romaleos_4-3.png"
+			},
+			{
+				"id": 10,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243864/dealhub/Shoes/Nike%20Romaleos%204/Nike_Romaleos_4.png"
+			}
+		],
+		"averageRating": 3.5
+	}
 ]
