@@ -264,5 +264,83 @@
 			}
 		],
 		"averageRating": 3.5
+	},
+	{
+		"id": 10,
+		"name": "Jordan Monogram",
+		"price": 150,
+		"salePrice": 200,
+		"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et",
+		"shortDesc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243838/dealhub/Accessories/Bags/Jordan%20Monogram/Jordan_Monogram-1-thumb_4.png",
+		"category": "Accessories",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243838/dealhub/Accessories/Bags/Jordan%20Monogram/Jordan_Monogram-3.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243838/dealhub/Accessories/Bags/Jordan%20Monogram/Jordan_Monogram-1.png"
+			},
+			{
+				"id": 9,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243867/dealhub/Accessories/Bags/Jordan%20Monogram/Jordan_Monogram.png"
+			},
+			{
+				"id": 10,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243838/dealhub/Accessories/Bags/Jordan%20Monogram/Jordan_Monogram-2.png"
+			}
+		],
+		"averageRating": 3.5
+	},
+	{
+		"id": 11,
+		"name": "Nike Aura",
+		"price": 100,
+		"salePrice": 200,
+		"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et",
+		"shortDesc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243867/dealhub/Accessories/Bags/Nike%20Aura/Nike_Aura-thumb_3.png",
+		"category": "Accessories",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243867/dealhub/Accessories/Bags/Nike%20Aura/Nike_Aura-1.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243866/dealhub/Accessories/Bags/Nike%20Aura/Nike_Aura-2.png"
+			}
+		],
+		"averageRating": 3.5
+	},
+	{
+		"id": 12,
+		"name": "Nike Romaleos",
+		"price": 500,
+		"salePrice": 200,
+		"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et",
+		"shortDesc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+		"thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243843/dealhub/Clothing/Nike%20Romaleos/Nike_Romaleos-thumb_6.png",
+		"category": "Clothing",
+		"featured": false,
+		"images": [
+			{
+				"id": 7,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243842/dealhub/Clothing/Nike%20Romaleos/Nike_Romaleos_5.png"
+			},
+			{
+				"id": 8,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243842/dealhub/Clothing/Nike%20Romaleos/Nike_Romaleos_7.png"
+			},
+			{
+				"id": 9,
+				"src": "https://res.cloudinary.com/panachora/image/upload/v1722243842/dealhub/Clothing/Nike%20Romaleos/Nike_Romaleos_8.png"
+			},
+		],
+		"averageRating": 3.5
 	}
 ]
